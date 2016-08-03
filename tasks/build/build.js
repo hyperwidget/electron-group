@@ -23,6 +23,7 @@ var paths = {
         './helpers/**',
         './**/*.html',
         './**/app**.js',
+        './**/jquery.js',
         './**/vendor**.js',
         './**/*.+(jpg|png|svg)'
     ],
