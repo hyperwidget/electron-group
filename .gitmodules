@@ -1,0 +1,3 @@
+[submodule "ng2-group-multiselect"]
+	path = ng2-group-multiselect
+	url = git@github.com:rawkamatic/ng2-group-multiselect.git
